@@ -1,0 +1,45 @@
+.navbar-nav {
+    margin-left: 60%;
+}
+.card img{
+    height: 60%;
+    width: 60%;
+    margin: 50px 80px;
+}
+#slider{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:10%;
+    
+}
+.car{
+    background-image: url("images/bg-1.png");
+   
+    background-repeat: no-repeat;
+    background-position:center;
+  background-size:contain;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.styl{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px 30px;
+    border-radius: 15px 0px ;
+}
+.wit{
+    width: 50%;
+}
+.style{
+    box-shadow: 5px 5px 10px lightgray;
+    margin: 18%;
+    padding: 7%;
+    border-radius: 15px 0px ;
+}
+
+.set{
+    width: 100%;
+}
